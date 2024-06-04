@@ -25,7 +25,7 @@ Follow these steps to set up the project locally on your machine.
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/saitejagoruganthu/Shora-Video-Sharing-Mobile-App.git
+git clone https://github.com/saitejagoruganthu/Speed-Typing-Game.git
 ```
 **Run**
 
