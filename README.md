@@ -28,4 +28,7 @@ Follow these steps to set up the project locally on your machine.
 git clone https://github.com/saitejagoruganthu/Shora-Video-Sharing-Mobile-App.git
 ```
 **Run**
+
+```bash
 Open index.html file in your browser.
+```
